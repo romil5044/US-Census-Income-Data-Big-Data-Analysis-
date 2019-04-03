@@ -6,4 +6,4 @@ accurate prediction on the income of the US citizens.
 
 • Integrated & prepared census income data by imputation, binning & discretization of independent variables using PySpark
 • Performed feature engineering, exploratory analysis & dimensionality reduction to finalize a list of features for ML modelling
-• Achieved an accuracy of 93% in predicting annual income of employees using logistic regression & random forest models
+• Achieved an accuracy of 83% in predicting annual income of employees using logistic regression & random forest models
